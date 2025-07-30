@@ -47,6 +47,7 @@ dlldata.c
 
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
+src/Services/Catalog/Catalog.API/DockerDesktopWSL/
 
 # .NET Core
 project.lock.json
